@@ -3,7 +3,7 @@
 *   mem_impl.h                                                                            *
 *                                                                                         *
 ******************************************************************************************/
-// CSE 374 Homework 6
+
 // Team: Vaughn Johnson, Winter Meng
 // mem_impl.h is the header file for the freelist structure of the program.
 
