@@ -3,7 +3,6 @@
 *   print_heap.c                                                                          *
 *                                                                                         *
 ******************************************************************************************/
-// CSE 374 Homework 6
 // Team: Vaughn Johnson, Winter Meng
 // print_heap visually displays the heap.
 #include <stdlib.h>
