@@ -1,6 +1,4 @@
-// CSE 374 Homework 6
-// Team: Vaughn Johnson, Winter Meng
-// Bench.c is the testing program for memory manager.
+
 #define _XOPEN_SOURCE 500
 #include <stdlib.h>
 #include <stdio.h>
