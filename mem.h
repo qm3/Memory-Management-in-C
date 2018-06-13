@@ -3,7 +3,6 @@
 *   mem.h                                                                                 *
 *                                                                                         *
 ******************************************************************************************/
-// CSE 374 Homework 6
 // Team: Vaughn Johnson, Winter Meng
 // mem.h is the header file for the memory management package.
 
