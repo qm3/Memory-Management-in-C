@@ -3,7 +3,6 @@
 *   get_mem_stats.c                                                                       *
 *                                                                                         *
 ******************************************************************************************/
-// CSE 374 Homework 6
 // Team: Vaughn Johnson, Winter Meng
 // get_mem_stats stores 3 stats of the memory management program
 #include <stdlib.h>
