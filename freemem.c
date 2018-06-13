@@ -3,7 +3,6 @@
 *   freemem.c                                                                             *
 *                                                                                         *
 ******************************************************************************************/
-// CSE 374 Homework 6
 // Team: Vaughn Johnson, Winter Meng
 // Freemem releases the memory from the heap.
 
