@@ -1,21 +1,4 @@
-/*******************************************************************************\
-    ***********
-*                                                                               \
-              *
-*   getmem.c                                                                    \
-              *
-*                                                                               \
-              *
-********************************************************************************\
-    **********/
-// CSE 374 Homework 6
-
-// Team: Vaughn Johnson, Winter Meng
-
 // getmem returns a pointer to a new block of memory storage.
-
-
-
 // use the public version of shared variable freelistptr.
 #define  primary
 
