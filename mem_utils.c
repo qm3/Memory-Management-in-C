@@ -3,8 +3,6 @@
 *   mem_utils.c                                                                           *
 *                                                                                         *
 ******************************************************************************************/
-// CSE 374 Homework 6
-
 // Team: Vaughn Johnson, Winter Meng
 
 // mem_utils.c is checks possible problems of the program.
